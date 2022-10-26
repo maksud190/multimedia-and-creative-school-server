@@ -1,0 +1,69 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      
+      "category_id": "02",
+      "title": "Autodesk 3Ds Max",
+      
+      "image_url": "https://uploads.toolfarm.com/app/uploads/2019/03/27100607/3dsmax_2020_blog.jpg",
+      "details": "3Autodesk 3ds Max, formerly 3D Studio and 3D Studio Max, is a professional 3D computer graphics program for making 3D animations, models, games and images. It is developed and produced by Autodesk Media and Entertainment.[3] It has modeling capabilities and a flexible plugin architecture and must be used on the Microsoft Windows platform. It is frequently used by video game developers, many TV commercial studios, and architectural visualization studios. It is also used for movie effects and movie pre-visualization. 3ds Max features shaders (such as ambient occlusion and subsurface scattering), dynamic simulation, particle systems, radiosity, normal map creation and rendering, global illumination, a customizable user interface, and its own scripting language.[4] "
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      
+      "category_id": "03",
+      
+      "title": "Adobe Photoshop",
+      
+      "image_url": "https://knowledgecom.my/wp-content/uploads/2020/11/Photoshop-2020.png",
+      "details": "Adobe Photoshop is a raster graphics editor developed and published by Adobe Inc. for Windows and macOS. It was originally created in 1988 by Thomas and John Knoll. Since then, the software has become the industry standard not only in raster graphics editing, but in digital art as a whole. The software's name is often colloquially used as a verbto photoshop an imagephotoshopping andphotoshop contest[5] although Adobe discourages such use.[6] Photoshop can edit and compose raster images in multiple layers and supports masks, alpha compositing and several color models including RGB, CMYK, CIELAB, spot color, and duotone. Photoshop uses its own PSD and PSB file formats to support these features. In addition to raster graphics, Photoshop has limited abilities to edit or render text and vector graphics (especially through clipping path for the latter), as well as 3D graphics and video. Its feature set can be expanded by plug-ins; programs developed and distributed independently of Photoshop that run inside it and offer new or enhanced features.Photoshop naming scheme was initially based on version numbers. However in October 2002 (following the introduction of Creative Suite branding each new version of Photoshop was designated with CS plus a number; e.g. the eighth major version of Photoshop was Photoshop CS and the ninth was Photoshop CS2. Photoshop CS3 through CS6 were also distributed in two different editions: Standard and Extended. With the introduction of the Creative Cloud branding in June 2013 (and in turn the change of the suffix to ) Photoshops licensing scheme was changed to that of software as a service subscription model. Historically Photoshop was bundled with additional software such as Adobe ImageReady Adobe Fireworks Adobe Bridge Adobe Device Central and Adobe Camera RAW. "
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      
+      "category_id": "04",
+      
+      "title": "Adobe Premiere",
+      "image_url": "https://image.winudf.com/v2/image1/Y29tLlRodW5kZXJHYW1lcy5BZG9iZVByZW1pZXJlUHJvQ29tcGxldGVDb3Vyc2VGcmVlX3NjcmVlbl8wXzE2MTQ3NzQxNjlfMDA2/screen-0.jpg?fakeurl=1&type=.webp",
+      "details": "Premiere Pro supports high resolution video editing at up to 10 24 08 192 16 resolution at up to 32 bits per channel color, in both RGB and YUV. Audio sample-level editing, VST audio plug-in support, and 5.1 surround sound mixing are available. Premiere Pro's plug-in architecture enables it to import and export formats beyond those supported by QuickTime or DirectShow, supporting a wide variety of video and audio file formats and codecs on both MacOS and Windows. When used with CineForm's Neo line of plug-ins, it supports 3D editing with the ability to view 3D material using 2D monitors, while making individual left and right eye adjustments.      Premiere Pro can be used for all common video editing tasks necessary for producing broadcast-quality, high-definition video. It can be used to import video, audio and graphics, and is used to create new, edited versions of video which can be exported to the medium and format necessary for the distribution. When creating videos using Premiere Pro, various videos, still images and audio files can be edited together. Titles and motion graphics can be added to videos and filters can be applied along with other effects. "
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      
+      "category_id": "03",
+      
+      "title": "Adobe Illustrator",
+      
+      "image_url": "https://www.classcentral.com/report/wp-content/uploads/2022/06/Adobe-Illustrator-BCG-Banner.png",
+      "details": "Adobe Illustrator is a vector graphics editor and design program developed and marketed by Adobe Inc. Originally designed for the Apple Macintosh, development of Adobe Illustrator began in 1985. Along with Creative Cloud (Adobe's shift to monthly or annual subscription service delivered over the Internet), Illustrator CC was released. The latest version, Illustrator 2022, was released on October 26, 2021, and is the 25th generation in the product line. Adobe Illustrator was reviewed as the best vector graphics editing program in 2021 by PC Magazine.[1] "
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      
+      "category_id": "06",
+      
+      "title": "JavaScript",
+      "image_url": "https://i.ytimg.com/vi/bsul_KMQHns/maxresdefault.jpg",
+      "details": "The first web browser with a graphical user interface, Mosaic, was released in 1993. Accessible to non-technical people, it played a prominent role in the rapid growth of the nascent World Wide Web.[11] The lead developers of Mosaic then founded the Netscape corporation, which released a more polished browser, Netscape Navigator, in 1994. This quickly became the most-used.[12][13]During these formative years of the Web, web pages could only be static, lacking the capability for dynamic behavior after the page was loaded in the browser. There was a desire in the flourishing web development scene to remove this limitation, so in 1995, Netscape decided to add a scripting language to Navigator. They pursued two routes to achieve this: collaborating with Sun Microsystems to embed the Java programming language, while also hiring Brendan Eich to embed the Scheme language.[6]Netscape management soon decided that the best option was for Eich to devise a new language, with syntax similar to Java and less like Scheme or other extant scripting languages."
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      
+      "category_id": "06",
+      
+      "title": "React Js",
+      "image_url": "https://techsathi.com/wp-content/uploads/2021/05/ReactJS.png",
+      "details": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3] for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[4][5][6] React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.[7][8] "
+    },
+    {
+      "_id": "11468ed61aee84de492a8c04258a22f0",
+      
+      "category_id": "05",
+      
+      "title": "Photography",
+      "image_url": "https://dubai.sae.edu/wp-content/uploads/sites/16/2022/02/Photography.jpg",
+      "details": "Photography is the art, application, and practice of creating durable images by recording light, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film. It is employed in many fields of science, manufacturing (e.g., photolithography), and business, as well as its more direct uses for art, film and video production, recreational purposes, hobby, and mass communication.[1]Typically, a lens is used to focus the light reflected or emitted from objects into a real image on the light-sensitive surface inside a camera during a timed exposure. With an electronic image sensor, this produces an electrical charge at each pixel, which is electronically processed and stored in a digital image file for subsequent display or processing. The result with photographic emulsion is an invisible latent image, which is later chemically into a visible image, either negative or positive, depending on the purpose of the photographic material and the method of processing. "
+    }
+  ]

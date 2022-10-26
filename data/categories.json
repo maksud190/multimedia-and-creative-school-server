@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "All Courses"
+    },
+    {
+        "id": "02",
+        "name": "3D courses"
+    },
+    {
+        "id": "03",
+        "name": "Graphic Design Courses"
+    },
+    {
+        "id": "04",
+        "name": "Video Editing Courses"
+    },
+    {
+        "id": "05",
+        "name": "Photography courses"
+    },
+    {
+        "id": "06",
+        "name": "Programming Language Courses"
+    }
+]
