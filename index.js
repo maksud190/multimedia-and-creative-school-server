@@ -12,6 +12,8 @@ app.get('/', (req, res) => {
     res.send('Educational API is Running')
 });
 
+// Category data
+
 app.get('/categories', (req, res) => {
     res.send(categories);
 });
