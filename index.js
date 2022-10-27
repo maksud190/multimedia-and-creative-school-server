@@ -12,11 +12,13 @@ app.get('/', (req, res) => {
     res.send('Educational API is Running')
 });
 
-// Category data
+// All Category data
 
 app.get('/categories', (req, res) => {
     res.send(categories);
 });
+
+// Category by id
 
 app.get('/category/:id', (req, res) => {
     const id = req.params.id;
