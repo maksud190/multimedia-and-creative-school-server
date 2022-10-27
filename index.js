@@ -18,10 +18,13 @@ app.get('/categories', (req, res) => {
     res.send(categories);
 });
 
-// Category by id
+// Data from Category by id
 
 app.get('/category/:id', (req, res) => {
     const id = req.params.id;
+
+    // condition for showing all category items
+
     if (id === '01') {
         res.send(categoryData);
     }
